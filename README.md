@@ -1,7 +1,7 @@
 R1SK
 --
 
-* Risk Investigation for Scientific Knowledge
+* Risk Initiative for Scientific Knowledge
 * Remote 1st Space Kings
 * Risk Is Science and Knowledge
 * Right Investigation Studies for the Kremlin
